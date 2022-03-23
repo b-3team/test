@@ -1,5 +1,1 @@
-print('s')
-print('안녕')
-print ('안녕하세요!')
-print('안녕하세요 신동우 입니다')
-print('연습입니다')
+print('안녕하세요')
